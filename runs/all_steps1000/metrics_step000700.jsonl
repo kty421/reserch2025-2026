@@ -1,0 +1,10 @@
+{"obj": 8.342830937122926, "runtime": 5.007000207901001, "nodecount": 476.0, "lazy": 118.0, "mipgap": 0.02401920765468801, "solved": 0.0}
+{"obj": Infinity, "runtime": 5.01200008392334, "nodecount": 518.0, "lazy": 88.0, "mipgap": Infinity, "solved": 0.0}
+{"obj": 8.256202674470842, "runtime": 5.008000135421753, "nodecount": 526.0, "lazy": 149.0, "mipgap": 0.037842331272061415, "solved": 0.0}
+{"obj": 9.299230752047151, "runtime": 5.007999897003174, "nodecount": 533.0, "lazy": 172.0, "mipgap": 0.09660002721232198, "solved": 0.0}
+{"obj": Infinity, "runtime": 5.0299999713897705, "nodecount": 524.0, "lazy": 95.0, "mipgap": Infinity, "solved": 0.0}
+{"obj": 10.998136037262157, "runtime": 5.019000053405762, "nodecount": 517.0, "lazy": 159.0, "mipgap": 0.2501791332826494, "solved": 0.0}
+{"obj": Infinity, "runtime": 5.01200008392334, "nodecount": 738.0, "lazy": 118.0, "mipgap": Infinity, "solved": 0.0}
+{"obj": 8.57813074067235, "runtime": 5.015000104904175, "nodecount": 516.0, "lazy": 173.0, "mipgap": 0.04853071099820439, "solved": 0.0}
+{"obj": 9.28118286957033, "runtime": 5.0329999923706055, "nodecount": 519.0, "lazy": 171.0, "mipgap": 0.15579664668943954, "solved": 0.0}
+{"obj": 8.948884879704565, "runtime": 5.013000011444092, "nodecount": 526.0, "lazy": 205.0, "mipgap": 0.09171568121471102, "solved": 0.0}
