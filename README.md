@@ -1,6 +1,6 @@
 # Hard ETSP Instance Generator (Graduation Research)
 
-卒業研究で作成した「ユークリッドTSP (ETSP) の“難しい”インスタンスを自動生成する」実験コードです。  
+卒業研究で作成した「ユークリッドTSP (ETSP) の難しいインスタンスを自動生成する」実験コードです。  
 学習は REINFORCE 系（ポリシー勾配）で行い、点群生成ポリシーとして 回転つき異方性GMM（混合ガウス）を用います。  
 生成した点群に対して Gurobi（DFJ + Lazy subtour cuts）でETSPを解き、その solver メトリクス（runtime / nodecount / lazy cut回数など）を報酬として最適化します。
 
